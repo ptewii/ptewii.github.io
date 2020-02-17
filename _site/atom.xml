@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>piitime</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2020-02-17T15:11:26-05:00</updated>
+ <link href="http://localhost:4000/piitime//atom.xml" rel="self"/>
+ <link href="http://localhost:4000/piitime//"/>
+ <updated>2020-02-17T15:15:40-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>pii</name>
@@ -16,7 +16,7 @@
    <title>Timeline is up.</title>
    <link href="http://localhost:4000/2020/02/17/timeline-live/"/>
    <updated>2020-02-17T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2020/02/17/timeline-live</id>
+   <id>http://localhost:4000/piitime//2020/02/17/timeline-live</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://piitime.com/timeline&quot;&gt;Timeline&lt;/a&gt; is live and ready for updates.&lt;/p&gt;
 </content>
  </entry>

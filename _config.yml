@@ -6,7 +6,7 @@ title:               piitime
 tagline:             'Looking at time'
 description:         'Taking a look at interesting things that happened throughout time.'
 url:                 http://pii.space
-baseurl:             ''
+baseurl:             '/piitime'
 future:              true
 paginate: 5
 plugins: ['jekyll-paginate']
