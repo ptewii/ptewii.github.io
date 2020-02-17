@@ -1,0 +1,22 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               piitime
+tagline:             'Looking at time'
+description:         'Taking a look at interesting things that happened throughout time.'
+url:                 http://pii.space
+baseurl:             ''
+future:              true
+paginate: 5
+plugins: ['jekyll-paginate']
+
+
+# About/contact
+author:
+  name:              pii
+  url:               ''
+  email:             ''
+
+# Custom vars
+version:             1.0.0
